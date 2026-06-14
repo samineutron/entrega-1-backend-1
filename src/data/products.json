@@ -26,5 +26,33 @@
       "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/371128/02/sv04/fnd/CHL/w/1000/h/1000/fmt/png",
       "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/398846/01/fnd/CHL/w/1000/h/1000/fmt/png"
     ]
+  },
+  {
+    "id": 3,
+    "title": "Polera Puma",
+    "description": "Polera de algodon que sirve para cualquier ocasion con su comodidad y suavidad",
+    "code": 413265,
+    "price": 10000,
+    "status": true,
+    "stock": 15,
+    "category": "Poleras",
+    "thumbnails": [
+      "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/371128/02/sv04/fnd/CHL/w/1000/h/1000/fmt/png",
+      "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/398846/01/fnd/CHL/w/1000/h/1000/fmt/png"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Polera Nike",
+    "description": "Polera de algodon que sirve para cualquier ocasion con su comodidad y suavidad",
+    "code": 433265,
+    "price": 10000,
+    "status": true,
+    "stock": 15,
+    "category": "Poleras",
+    "thumbnails": [
+      "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/371128/02/sv04/fnd/CHL/w/1000/h/1000/fmt/png",
+      "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/398846/01/fnd/CHL/w/1000/h/1000/fmt/png"
+    ]
   }
 ]
